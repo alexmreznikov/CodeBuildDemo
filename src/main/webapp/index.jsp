@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<p>V2</p>
-<p>With CodePipeline</p>
+<p>V3</p>
+<p>With CodePipeline, expecting auto detection</p>
 </body>
 </html>
